@@ -1,2 +1,2 @@
 "Ini adalah file cv"
-perubahn 1
+perubahn 2
