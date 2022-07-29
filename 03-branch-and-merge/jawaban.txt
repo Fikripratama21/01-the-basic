@@ -1,0 +1,10 @@
+untuk menghapus file yang tidak terlacak direpo directory
+untuk menghapus branch
+git branch
+Fast forward agar saat kita melakukan log oneline tidak terjadi konflik, - Recur> penggabungan default saat menarik atau menggabungkan satu cabang
+git checkout
+git rm 
+git branch -d 
+Untuk melihat perbandingan perubahan
+git reset
+ketika git tidak dapat secara otomatis menyelesaikan perbedaan kode antara dua commit
