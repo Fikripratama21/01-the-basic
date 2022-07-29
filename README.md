@@ -1,2 +1,2 @@
 # 01-the-basic
-Assigment Week 4. DA TEAM
+"Halo perkenalkan aku halaman utama"
